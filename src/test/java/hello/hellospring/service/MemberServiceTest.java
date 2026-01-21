@@ -69,7 +69,7 @@ class MemberServiceTest {
     }
 
     @Test
-    void finMembers() {
+    void findMembers() {
     }
 
     @Test
